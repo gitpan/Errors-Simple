@@ -1,0 +1,11 @@
+Artistic
+Changes
+MANIFEST
+Makefile.PL
+README
+Simple.pm
+META.yml                                 Module meta-data (added by MakeMaker)
+t/1-load.t
+t/2-all.t
+t/3-object.t
+t/test_class.pl
